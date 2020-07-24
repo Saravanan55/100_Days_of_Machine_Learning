@@ -29,6 +29,7 @@
   * Multi-line Print
   * Dictionaries
 ```
+
 [Day_4](Day_004.ipynb)
 ```
   * Built-in Functions
@@ -36,5 +37,14 @@
   * urllib module
   * Regular Expressions
   * Parsing Websites with re and urllib
+```
 
+[Day_5](Day_005.ipynb)
+```
+  * Threading Module
+  * Subprocess Module
+  * Matplotlib Graphing Intro
+  * Matplotlib Labels and Titles
+  * Matplotlib Styles
+  * Matplotlib Legends
 ```
