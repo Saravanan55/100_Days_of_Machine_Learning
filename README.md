@@ -48,3 +48,11 @@
   * Matplotlib Styles
   * Matplotlib Legends
 ```
+[Day_6](Day_006.ipynb)
+```
+ * Scatter plots and Bar charts
+ * Matplotlib plotting from a CSV
+ * Sockets Intro
+ * Sockets simple port scanner
+ * Threaded port scanner
+```
