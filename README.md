@@ -56,3 +56,11 @@
  * Sockets simple port scanner
  * Threaded port scanner
 ```
+[Day_7](Day_007.ipynb)
+```
+* Pickle Module for saving objects
+* Eval
+* Exec
+* Database
+```
+
