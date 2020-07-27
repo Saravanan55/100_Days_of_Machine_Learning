@@ -63,4 +63,13 @@
 * Exec
 * Database
 ```
+[Day_8](Day_008.ipynb)
+```
+ * PyGame - Intro
+ * PyGame - Display Images
+ * PyGame - Moving an Image
+ ```
+
+
+
 
