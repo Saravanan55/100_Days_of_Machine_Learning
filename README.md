@@ -69,6 +69,16 @@
  * PyGame - Display Images
  * PyGame - Moving an Image
  ```
+ [Day_9](Day_009.ipynb)
+ ```
+ * PyGame - Adding Boundaries
+ * PyGame - Display Text on Screen
+ * PyGame - Drawing Objects / moving objects
+ * PyGame - Crashing
+ * PyGame - Score, challenge, conclusion
+ ```
+
+ 
 
 
 
