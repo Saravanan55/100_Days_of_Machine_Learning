@@ -77,6 +77,14 @@
  * PyGame - Crashing
  * PyGame - Score, challenge, conclusion
  ```
+[Day_10](Day_010.ipynb)
+```
+ * Drawing Objects and Shapes
+ * Start Menu
+ * Drawing the rectangle
+ * Button interaction
+```
+
 
  
 
