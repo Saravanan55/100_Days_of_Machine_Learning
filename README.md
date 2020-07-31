@@ -8,7 +8,6 @@
   * Loops
   * Functions
 ```
-
 [Day_2](Day_002.ipynb)
 ```
   * Function Parameter
@@ -18,7 +17,6 @@
   * Read from a File
   * Classes
 ```
-
 [Day_3](Day_003.ipynb)
 ```
   * Getting User Input
@@ -29,7 +27,6 @@
   * Multi-line Print
   * Dictionaries
 ```
-
 [Day_4](Day_004.ipynb)
 ```
   * Built-in Functions
@@ -38,7 +35,6 @@
   * Regular Expressions
   * Parsing Websites with re and urllib
 ```
-
 [Day_5](Day_005.ipynb)
 ```
   * Threading Module
@@ -90,6 +86,14 @@
  * Button Function
  * Button Event
 ```
+[Day_12](Day_012.ipynb)
+```
+ * Pause function 
+ * Game Over
+ * Game Icon
+ * Sounds and Music
+```
+
  
 
 
