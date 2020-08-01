@@ -93,6 +93,14 @@
  * Game Icon
  * Sounds and Music
 ```
+[Day_13](Day_013.ipynb)
+```
+ * PyOpenGL introduction and creation of Rotating Cube
+ * Coloring Surfaces
+ * Movement and Navigation
+ * Moving Cubes
+ * Random Cube Position
+```
 
  
 
