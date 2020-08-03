@@ -111,9 +111,9 @@
 ```
  * OOPS Concepts
  * Class
- *  Method
+ * Method
  * Object
- *  Inheritance
+ * Inheritance
  * Abstraction
  * Encapsulation
 ```
