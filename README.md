@@ -125,6 +125,14 @@
  * Debugging
  * Routes
 ```
+[Day_17](Day_017)
+```
+ * Layout 
+ * Render Template
+ * Bootstrap
+ * Blog posts
+```
+
  
 
 
