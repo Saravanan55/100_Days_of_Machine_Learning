@@ -132,7 +132,14 @@
  * Bootstrap
  * Blog posts
 ```
-
+[Day_18](Day_018)
+```
+ * Redirect
+ * Flask - Form
+ * Validators
+ * url_for
+ * Flash messages
+```
  
 
 
