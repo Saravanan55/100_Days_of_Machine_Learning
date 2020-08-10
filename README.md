@@ -158,3 +158,9 @@
  * User account
  * Profile picture
 ```
+[Day_22](Day_022)
+```
+ * Flask - Create, Update and Delete Posts
+```
+
+
