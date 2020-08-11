@@ -162,5 +162,8 @@
 ```
  * Flask - Create, Update and Delete Posts
 ```
-
-
+[Day_23](Day_023)
+```
+ * Pagination
+ * Email and Password Reset
+```
