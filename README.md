@@ -167,3 +167,7 @@
  * Pagination
  * Email and Password Reset
 ```
+[Day_24](Day_024)
+```
+ * Blueprints and Configuration
+```
