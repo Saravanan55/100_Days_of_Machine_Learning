@@ -171,3 +171,7 @@
 ```
  * Blueprints and Configuration
 ```
+[Day_25](Day_025)
+```
+ * Custom Error Pages
+```
