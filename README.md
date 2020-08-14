@@ -175,3 +175,8 @@
 ```
  * Custom Error Pages
 ```
+[Day_26](Day_025)
+```
+ * Custom Domain Name for Our Application
+ * HTTPS with a free SSL/TLS Certificate
+```
