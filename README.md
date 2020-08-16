@@ -180,9 +180,15 @@
  * Custom Domain Name for Our Application
  * HTTPS with a free SSL/TLS Certificate
 ```
-[Day_27]
+#### Day_27
 ```
  * Linear Algebra 
     * Introduction to matrices
     * Matrix multiplication 
+```
+#### Day 28
+```
+ * Inverting a 2x2 matrix 
+ * Inverting a 3x3 matrix
+ * Matrices to solve a system of equations
 ```
