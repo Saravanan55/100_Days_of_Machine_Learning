@@ -180,9 +180,10 @@
  * Custom Domain Name for Our Application
  * HTTPS with a free SSL/TLS Certificate
 ```
+### [Linear Algebra](https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0&index)
 #### Day_27
 ```
- * [Linear Algebra](https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0&index)
+ * Linear Algebra
     * Introduction to matrices
     * Matrix multiplication 
 ```
