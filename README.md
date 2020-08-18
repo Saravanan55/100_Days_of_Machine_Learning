@@ -182,7 +182,7 @@
 ```
 #### Day_27
 ```
- * Linear Algebra 
+ * [Linear Algebra](https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0&index)
     * Introduction to matrices
     * Matrix multiplication 
 ```
@@ -191,4 +191,16 @@
  * Inverting a 2x2 matrix 
  * Inverting a 3x3 matrix
  * Matrices to solve a system of equations
+```
+#### Day 29
+```
+ * Vector combination
+ * Singular matrices
+ * Three variable linear equations
+```
+#### Day 30
+```
+* Solving 3 Equations with 3 Unknowns
+* Introduction to Vectors
+* Vector examples
 ```
