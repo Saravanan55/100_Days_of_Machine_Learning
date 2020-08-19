@@ -205,3 +205,9 @@
 * Introduction to Vectors
 * Vector examples
 ```
+#### Day 31
+```
+* Parametric representations of lines
+* Linear combinations and span
+* Introduction to linear independence
+```
