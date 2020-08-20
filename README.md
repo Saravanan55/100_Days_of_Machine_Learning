@@ -180,7 +180,9 @@
  * Custom Domain Name for Our Application
  * HTTPS with a free SSL/TLS Certificate
 ```
+
 ### [Linear Algebra](https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0&index)
+
 #### Day_27
 ```
  * Linear Algebra
@@ -210,4 +212,9 @@
 * Parametric representations of lines
 * Linear combinations and span
 * Introduction to linear independence
+```
+#### Day 32
+```
+* More on linear independence 
+* Span and linear independence example 
 ```
