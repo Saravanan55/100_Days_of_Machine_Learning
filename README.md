@@ -203,18 +203,23 @@
 ```
 #### Day 30
 ```
-* Solving 3 Equations with 3 Unknowns
-* Introduction to Vectors
-* Vector examples
+ * Solving 3 Equations with 3 Unknowns
+ * Introduction to Vectors
+ * Vector examples
 ```
 #### Day 31
 ```
-* Parametric representations of lines
-* Linear combinations and span
-* Introduction to linear independence
+ * Parametric representations of lines
+ * Linear combinations and span
+ * Introduction to linear independence
 ```
 #### Day 32
 ```
-* More on linear independence 
-* Span and linear independence example 
+ * More on linear independence 
+ * Span and linear independence example 
+```
+#### Day 33
+```
+ * Linear subspaces 
+ * Basis of a subspace 
 ```
