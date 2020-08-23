@@ -229,3 +229,9 @@
  * Proving vector dot product properties
  * Proof of the Cauchy-Schwarz inequality
 ```
+#### Day 35
+```
+ * Vector triangle inequality 
+ * Defining the angle between vectors 
+ * Defining a plane in R3 with a point and normal vector 
+```
