@@ -223,3 +223,9 @@
  * Linear subspaces 
  * Basis of a subspace 
 ```
+#### Day 34
+```
+ * Vector dot product and vector length
+ * Proving vector dot product properties
+ * Proof of the Cauchy-Schwarz inequality
+```
